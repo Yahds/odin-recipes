@@ -1,8 +1,8 @@
 # odin-recipes
 Project Name: Recipes
 Project Creator: Haydee Shane M. Saguid
-Project Started: 8/9/2023
-Project Ended: 
+Project Started: 8/9/2023 
+Project Ended: 8/9/2023
 
 Project Information:
     - Apply and practice all of the HTML knowledge acquired from previous lessons.
